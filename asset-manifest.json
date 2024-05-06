@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Paws-Store/static/css/main.45d65372.css",
+    "main.js": "/Paws-Store/static/js/main.bd45393f.js",
+    "static/js/453.8d3f16f7.chunk.js": "/Paws-Store/static/js/453.8d3f16f7.chunk.js",
+    "static/media/front_banner.png": "/Paws-Store/static/media/front_banner.bb687a1ba18659695ff5.png",
+    "static/media/accessories.png": "/Paws-Store/static/media/accessories.434621b9ee06e2a8d998.png",
+    "static/media/product_6.png": "/Paws-Store/static/media/product_6.260b69f1dc25063e1402.png",
+    "static/media/supplement.png": "/Paws-Store/static/media/supplement.a1bf54c10032b0461e6c.png",
+    "static/media/product_3.png": "/Paws-Store/static/media/product_3.c794d2a7ed506cd741de.png",
+    "static/media/product_5.png": "/Paws-Store/static/media/product_5.c6ea128589b8e1e683fc.png",
+    "static/media/hygine.png": "/Paws-Store/static/media/hygine.746ef6d780be808d2f31.png",
+    "static/media/product_17.png": "/Paws-Store/static/media/product_17.e8be6fdf93f92510e149.png",
+    "static/media/product_13.png": "/Paws-Store/static/media/product_13.42daced259519090a64c.png",
+    "static/media/product_1.png": "/Paws-Store/static/media/product_1.fc1247e700c78e74c760.png",
+    "static/media/product_21.png": "/Paws-Store/static/media/product_21.a65c6eccc36cd17352d9.png",
+    "static/media/product_9.png": "/Paws-Store/static/media/product_9.9c94bc27f685f881b020.png",
+    "static/media/product_22.png": "/Paws-Store/static/media/product_22.0fbc54ddf2d2bb0d367a.png",
+    "static/media/product_8.png": "/Paws-Store/static/media/product_8.6ff5f59c16058288b701.png",
+    "static/media/product_18.png": "/Paws-Store/static/media/product_18.9b9d8cd6bb0348336521.png",
+    "static/media/product_12.png": "/Paws-Store/static/media/product_12.9c0239729f3125fd95ab.png",
+    "static/media/product_20.png": "/Paws-Store/static/media/product_20.8b514bf6550fb24fb0d4.png",
+    "static/media/product_15.png": "/Paws-Store/static/media/product_15.43aec251fb92236e328b.png",
+    "static/media/product_4.png": "/Paws-Store/static/media/product_4.48bb03d51b0239db6ce0.png",
+    "static/media/product_10.png": "/Paws-Store/static/media/product_10.76156469548d4647fe83.png",
+    "static/media/exclusive_img.png": "/Paws-Store/static/media/exclusive_img.122a26ef712c4d765969.png",
+    "static/media/product_11.png": "/Paws-Store/static/media/product_11.efc48720f5c608302441.png",
+    "static/media/product_7.png": "/Paws-Store/static/media/product_7.3a95f2ede9587f214a61.png",
+    "static/media/product_19.png": "/Paws-Store/static/media/product_19.2c941fed44d21f339787.png",
+    "static/media/product_14.png": "/Paws-Store/static/media/product_14.c2905227677064372d63.png",
+    "static/media/product_16.png": "/Paws-Store/static/media/product_16.f56e32668e77cef47c15.png",
+    "static/media/product_2.png": "/Paws-Store/static/media/product_2.4ac4c3e9539e29ce1475.png",
+    "static/media/menu_icon.png": "/Paws-Store/static/media/menu_icon.aa5caa56564e46cbd3c6.png",
+    "index.html": "/Paws-Store/index.html",
+    "main.45d65372.css.map": "/Paws-Store/static/css/main.45d65372.css.map",
+    "main.bd45393f.js.map": "/Paws-Store/static/js/main.bd45393f.js.map",
+    "453.8d3f16f7.chunk.js.map": "/Paws-Store/static/js/453.8d3f16f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d65372.css",
+    "static/js/main.bd45393f.js"
+  ]
+}
